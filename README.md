@@ -8,6 +8,9 @@
 
 See https://github.com/ftsrg-edu/ase-labs/wiki/Practice-2a
 
+## Github status Badge
+[![Continuous Integration](https://github.com/valyibalint-cloud/ase-lab2/actions/workflows/ci.yml/badge.svg)](https://github.com/valyibalint-cloud/ase-lab2/actions/workflows/ci.yml)
+
 ## Overview
 
 The recurring algorithmic problem used in this practice is a simple method of estimating **similarity of text documents**, which forms the basis of various text mining techniques used in industry for detecting plagiarism, giving automated recommendations, finding related documents in a large repository, or classifying documents based on language and/or stylistic similarities within a language.
